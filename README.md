@@ -1,0 +1,2 @@
+# Selective Class Attention Distillation (SCAD)
+Official repository of the paper "An Attention-based Representation Distillation Baseline for Multi-Label Continual Learning" by Martin Menabue, Emanuele Frascaroli, Matteo Boschini, Lorenzo Bonicelli, Angelo Porrello and Simone Calderara
